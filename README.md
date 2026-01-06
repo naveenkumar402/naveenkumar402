@@ -6,7 +6,7 @@ I believe in writing clean, efficient, and maintainable code, and I enjoy solvin
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Tech Stacks
 - **Languages:** Java, JavaScript, HTML5, CSS3  
 - **Frontend:** React.js, Bootstrap, JavaScript (ES6+)  
 - **Backend:** Spring Boot, Spring Security, Spring JDBC, JPA  
