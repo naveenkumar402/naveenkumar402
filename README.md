@@ -7,9 +7,9 @@ I believe in writing clean, efficient, and maintainable code, and I enjoy solvin
 ---
 
 ### 🔧 Tech Stacks
-- **Languages:** Java, JavaScript, HTML5, CSS3  
+- **Languages:** Java, JavaScript, HTML5, CSS3, TypeScript  
 - **Frontend:** React.js, Bootstrap, JavaScript (ES6+)  
-- **Backend:** Spring Boot, Spring Security, Spring JDBC, JPA  
+- **Backend:** Spring Boot, Spring Security, Spring JDBC, JPA, Nest JS  
 - **Database:** MySQL, Postgres
 - **Other Tools & Skills:** Git, REST APIs, MVC Architecture, Agile Methodologies
 
